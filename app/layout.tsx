@@ -21,6 +21,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <a href="#scrum" className="text-white/80 hover:text-white">Scrum</a>
             <a href="#videos" className="text-white/80 hover:text-white">Videos</a>
             <a href="#start" className="text-white/80 hover:text-white">Get Started</a>
+             <a href="#start" className="text-white/80 hover:text-white">Investment</a>
           </nav>
         </header>
         {children}

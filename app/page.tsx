@@ -12,6 +12,7 @@ export default function Page() {
       <ScrumEnhancements />
       <VideoGallery />
       <CTA />
+      <Investors />
     </main>
   );
 }

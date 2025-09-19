@@ -14,7 +14,7 @@ export default function Hero() {
           Meet <span className="underline decoration-white/60">ADAM</span>
         </motion.h1>
         <p className="mt-5 text-xl md:text-2xl text-white/90">
-          Your practical AI assistant for Agile & Traditional Project Management.
+          Your expert AI assistant for Agile & Traditional Project Management.
         </p>
         <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
           <a href="#capabilities" className="btn btn-primary">Explore Capabilities</a>

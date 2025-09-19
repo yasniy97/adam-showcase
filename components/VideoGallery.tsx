@@ -11,15 +11,15 @@ export default function VideoGallery() {
         <div className="card p-0 overflow-hidden">
           <iframe
             className="w-full aspect-video"
-            src="https://www.youtube.com/embed/dQw4w9WgXcQ"
-            title="Daily Standup Assistant"
+            src="https://youtu.be/XdbyRImcXJE"
+            title="Asking ADAM on team morale/improvement strategy"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           />
           <div className="p-4">
-            <h3 className="h3">Daily Standup Assistant</h3>
+            <h3 className="h3">ADAM in Action - Case 1</h3>
             <p className="mt-2 text-white/80 text-sm">
-              ADAM summarizes progress, risks, and next steps.
+              ADAM explains options to improve team morale.
             </p>
           </div>
         </div>
@@ -27,15 +27,15 @@ export default function VideoGallery() {
         <div className="card p-0 overflow-hidden">
           <iframe
             className="w-full aspect-video"
-            src="https://www.youtube.com/embed/oHg5SJYRHA0"
-            title="Sprint Planning Helper"
+            src="https://youtu.be/BbFMYwm1JiU"
+            title="ADAM - Upload Artifacts and Analysis"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           />
           <div className="p-4">
-            <h3 className="h3">Sprint Planning Helper</h3>
+            <h3 className="h3">Upload Artifacts</h3>
             <p className="mt-2 text-white/80 text-sm">
-              From backlog refinement to capacity-based forecasting.
+              ADAM can analyze artifacts.
             </p>
           </div>
         </div>
