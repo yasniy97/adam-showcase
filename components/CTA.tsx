@@ -7,7 +7,7 @@ export default function CTA() {
           Empower your teams with a practical AI that understands Agile and Traditional PM.
         </p>
         <div className="mt-6 flex flex-col sm:flex-row gap-4 justify-center">
-          <a className="btn btn-primary" href="mailto:team@example.com?subject=ADAM%20Demo%20Request">
+          <a className="btn btn-primary" href="mailto:sales@aisuperhuman.co?subject=ADAM%20Demo%20Request">
             Request a Demo
           </a>
           <a className="btn btn-ghost" href="#videos">Watch Demos</a>

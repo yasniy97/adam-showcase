@@ -6,7 +6,7 @@ export default function Capabilities() {
         Ask ADAM anything—from Agile ceremonies to traditional PM documents. It gives practical, structured answers you can use immediately.
       </p>
 
-      <div className="grid md:grid-cols-3 gap-6 mt-10">
+      <div className="grid md:grid-cols-4 gap-6 mt-10">
         <div className="card">
           <h3 className="h3">Agile Queries</h3>
           <ul className="mt-3 list-disc list-inside text-white/90">
@@ -31,6 +31,15 @@ export default function Capabilities() {
             <li>Blend sprints with stage gates</li>
             <li>Map OKRs to backlog & roadmap</li>
             <li>Metrics: velocity + CPI/SPI</li>
+          </ul>
+        </div>
+        
+        <div className="card">
+          <h3 className="h3">Analysis</h3>
+          <ul className="mt-3 list-disc list-inside text-white/90">
+            <li>Scheduling</li>
+            <li>Status Reporting</li>
+            <li>Data Driven Analysis</li>
           </ul>
         </div>
       </div>

@@ -7,7 +7,7 @@ export default function CTA() {
           Contact us for an investment oppurtunities.
         </p>
         <div className="mt-6 flex flex-col sm:flex-row gap-4 justify-center">
-          <a className="btn btn-primary" href="mailto:admin@aisuperhuman.com?subject=Invest%with%20ADAM">
+          <a className="btn btn-primary" href="mailto:admin@aisuperhuman.com?subject=Invest%20with%20ADAM">
             Tell me more
           </a>
          

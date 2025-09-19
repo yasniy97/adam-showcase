@@ -19,7 +19,7 @@ export default function VideoGallery() {
           <div className="p-4">
             <h3 className="h3">ADAM in Action - Case 1</h3>
             <p className="mt-2 text-white/80 text-sm">
-              ADAM explains options to improve team morale.
+              ADAM can provide reasoning and thoughts.
             </p>
           </div>
         </div>
@@ -33,7 +33,7 @@ export default function VideoGallery() {
             allowFullScreen
           />
           <div className="p-4">
-            <h3 className="h3">Upload Artifacts</h3>
+            <h3 className="h3">ADAM in Action - Case 2</h3>
             <p className="mt-2 text-white/80 text-sm">
               ADAM can analyze artifacts.
             </p>
