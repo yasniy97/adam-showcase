@@ -11,7 +11,7 @@ export default function VideoGallery() {
         <div className="card p-0 overflow-hidden">
           <iframe
             className="w-full aspect-video"
-            src="https://youtu.be/XdbyRImcXJE"
+            src="https://www.youtube.com/embed/XdbyRImcXJE"
             title="Asking ADAM on team morale/improvement strategy"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
@@ -27,7 +27,7 @@ export default function VideoGallery() {
         <div className="card p-0 overflow-hidden">
           <iframe
             className="w-full aspect-video"
-            src="https://youtu.be/BbFMYwm1JiU"
+            src="https://www.youtube.com/embed/BbFMYwm1JiU"
             title="ADAM - Upload Artifacts and Analysis"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
