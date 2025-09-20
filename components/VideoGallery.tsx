@@ -7,7 +7,7 @@ export default function VideoGallery() {
       </p>
 
       {/* Replace the src URLs with your real YouTube/Vimeo links */}
-      <div className="grid md:grid-cols-2 gap-6 mt-10">
+      <div className="grid md:grid-cols-3 gap-6 mt-10">
         <div className="card p-0 overflow-hidden">
           <iframe
             className="w-full aspect-video"
@@ -39,6 +39,23 @@ export default function VideoGallery() {
             </p>
           </div>
         </div>
+        
+        <div className="card p-0 overflow-hidden">
+          <iframe
+            className="w-full aspect-video"
+            src="https://www.youtube.com/embed/HJspQvLTFYs?rel=0"
+            title="ADAM - Image Generation"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
+          <div className="p-4">
+            <h3 className="h3">ADAM in Action - Case 3</h3>
+            <p className="mt-2 text-white/80 text-sm">
+              ADAM - explore your imagination.
+            </p>
+          </div>
+        </div>
+        
       </div>
     </section>
   );
