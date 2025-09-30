@@ -1,5 +1,3 @@
-import { FaReddit, FaGithub, FaDiscord } from "react-icons/fa";
-
 export default function Footer() {
   return (
     <footer className="bg-gray-900 text-white py-8 mt-12">
@@ -14,7 +12,6 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="flex items-center space-x-2 hover:text-orange-500 transition"
           >
-            <FaReddit size={24} />
             <span>Reddit</span>
           </a>
 
@@ -24,7 +21,6 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="flex items-center space-x-2 hover:text-gray-400 transition"
           >
-            <FaGithub size={24} />
             <span>GitHub</span>
           </a>
 
@@ -34,7 +30,6 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="flex items-center space-x-2 hover:text-indigo-400 transition"
           >
-            <FaDiscord size={24} />
             <span>Discord</span>
           </a>
         </div>
