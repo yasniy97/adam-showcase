@@ -15,6 +15,7 @@ export default function Page() {
       <VideoGallery />
       <CTA />
       <Investors />
+      <Footer />
     </main>
   );
 }
