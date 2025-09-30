@@ -4,6 +4,7 @@ import ScrumEnhancements from "@/components/ScrumEnhancements";
 import VideoGallery from "@/components/VideoGallery";
 import CTA from "@/components/CTA";
 import Investors from "@/components/Investors";
+import Footer from "@/components/footer";
 
 export default function Page() {
   return (
