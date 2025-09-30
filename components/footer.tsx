@@ -12,7 +12,7 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="flex items-center space-x-2 hover:text-orange-500 transition"
           >
-            <span>Reddit</span>
+            Go Reddit
           </a>
 
           <a
@@ -21,7 +21,7 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="flex items-center space-x-2 hover:text-gray-400 transition"
           >
-            <span>GitHub</span>
+            Check GitHub
           </a>
 
           <a
@@ -30,7 +30,7 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="flex items-center space-x-2 hover:text-indigo-400 transition"
           >
-            <span>Discord</span>
+            Visit Discord
           </a>
         </div>
       </div>
