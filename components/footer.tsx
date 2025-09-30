@@ -34,9 +34,7 @@ export default function Footer() {
           </a>
         </div>
       </div>
-      <p className="text-center text-gray-500 text-sm mt-6">
-        © {new Date().getFullYear()} ADAM Project. All rights reserved.
-      </p>
+      
     </footer>
   );
 }
