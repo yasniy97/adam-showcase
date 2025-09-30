@@ -16,15 +16,6 @@ export default function Footer() {
           </a>
 
           <a
-            href="https://github.com/yasniy97/ADAMProject"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center space-x-2 hover:text-gray-400 transition"
-          >
-            Check GitHub
-          </a>
-
-          <a
             href="https://discord.gg/g6CZyEaX"
             target="_blank"
             rel="noopener noreferrer"
